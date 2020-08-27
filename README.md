@@ -3,8 +3,9 @@
 Youtube Channel : https://youtube.com/FutureOfDotNet
 
 
-Youtube : https://youtu.be/VjAfdm5_zVo
-
+- Youtube : https://youtu.be/VjAfdm5_zVo
+- Github : https://github.com/kaki104/UnoLinux2Sample
+- Blog : https://kaki104.tistory.com/665
 
 ## Reference
 
